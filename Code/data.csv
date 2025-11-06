@@ -1,0 +1,103 @@
+timestamp_ms,sensor1,sensor2
+Adafruit AHT20 & VCNL4200 demo!
+AHT20 (RH Sensor) found
+Prox Data: 4095
+ALS Data: 404,White Data: 25
+Temperature: 28.09 degrees C
+Humidity: 26.32% rH
+Prox Data: 4095
+ALS Data: 404,White Data: 24
+Temperature: 28.10 degrees C
+Humidity: 26.60% rH
+Prox Data: 4095
+ALS Data: 415,White Data: 28
+Temperature: 28.11 degrees C
+Humidity: 26.86% rH
+Prox Data: 4095
+ALS Data: 410,White Data: 24
+Temperature: 28.13 degrees C
+Humidity: 26.92% rH
+Prox Data: 4095
+ALS Data: 585,White Data: 37
+Temperature: 28.14 degrees C
+Humidity: 26.87% rH
+Prox Data: 4095
+ALS Data: 518,White Data: 35
+Temperature: 28.16 degrees C
+Humidity: 26.99% rH
+Prox Data: 4095
+ALS Data: 517,White Data: 33
+Temperature: 28.17 degrees C
+Humidity: 27.03% rH
+Prox Data: 4095
+ALS Data: 508,White Data: 32
+Temperature: 28.18 degrees C
+Humidity: 26.98% rH
+Prox Data: 4095
+ALS Data: 504,White Data: 32
+Temperature: 28.17 degrees C
+Humidity: 26.84% rH
+Prox Data: 4095
+ALS Data: 457,White Data: 43
+Temperature: 28.17 degrees C
+Humidity: 26.70% rH
+Prox Data: 459
+ALS Data: 284,White Data: 24
+Temperature: 28.18 degrees C
+Humidity: 26.63% rH
+Prox Data: 4095
+ALS Data: 1970,White Data: 131
+Temperature: 28.18 degrees C
+Humidity: 26.54% rH
+Prox Data: 4095
+ALS Data: 664,White Data: 39
+Temperature: 28.21 degrees C
+Humidity: 26.53% rH
+Prox Data: 4095
+ALS Data: 678,White Data: 39
+Temperature: 28.21 degrees C
+Humidity: 26.60% rH
+Prox Data: 4095
+ALS Data: 495,White Data: 27
+Temperature: 28.22 degrees C
+Humidity: 26.65% rH
+Prox Data: 4095
+ALS Data: 508,White Data: 30
+Temperature: 28.24 degrees C
+Humidity: 26.73% rH
+Prox Data: 4095
+ALS Data: 485,White Data: 27
+Temperature: 28.22 degrees C
+Humidity: 26.81% rH
+Prox Data: 22
+ALS Data: 8625,White Data: 535
+Temperature: 28.24 degrees C
+Humidity: 26.81% rH
+Prox Data: 11
+ALS Data: 17316,White Data: 1101
+Temperature: 28.24 degrees C
+Humidity: 26.73% rH
+Prox Data: 13
+ALS Data: 15476,White Data: 980
+Temperature: 28.24 degrees C
+Humidity: 26.63% rH
+Prox Data: 48
+ALS Data: 34909,White Data: 2021
+Temperature: 28.23 degrees C
+Humidity: 26.55% rH
+Prox Data: 454
+ALS Data: 2810,White Data: 239
+Temperature: 28.16 degrees C
+Humidity: 26.30% rH
+Prox Data: 403
+ALS Data: 2890,White Data: 246
+Temperature: 28.14 degrees C
+Humidity: 26.15% rH
+Prox Data: 413
+ALS Data: 3344,White Data: 275
+Temperature: 28.09 degrees C
+Humidity: 25.86% rH
+Prox Data: 431
+ALS Data: 3138,White Data: 264
+Temperature: 28.07 degrees C
+Humidity: 25.72% rH
